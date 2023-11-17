@@ -1,5 +1,8 @@
+![Logo]([https://exemplo.com/logo.png](https://github.com/fernandoaraujo23/AcquaConstruction/blob/main/ACQUA%20LOGO.JPG))
+
 # AcquaConstruction
 This is the repository of a project for a fictitious building construction company.
+
 
 # The project
 For this project, I built a fictitious database with 20000 sales.
