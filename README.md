@@ -1,4 +1,4 @@
-![Logo]([https://exemplo.com/logo.png](https://github.com/fernandoaraujo23/AcquaConstruction/blob/main/ACQUA%20LOGO.JPG))
+![Logo](https://raw.githubusercontent.com/fernandoaraujo23/AcquaConstruction/main/ACQUA%20LOGO.JPG))
 
 # AcquaConstruction
 This is the repository of a project for a fictitious building construction company.
