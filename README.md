@@ -10,7 +10,7 @@ For this project, I built a fictitious database with 20000 sales.
 After that, I connected it to the database with Power BI and developed the Star Schema and the dashboard below.
 
 # Star Schema
-
+<img src="https://raw.githubusercontent.com/fernandoaraujo23/AcquaConstruction/main/StarSchema.JPG" alt="StarSchema">
 
 # Power BI Dashboard
 https://app.powerbi.com/view?r=eyJrIjoiZjcxNDIyMDEtYTg5YS00N2RmLWFkYWUtZWJiMmYxMjM1ZWM0IiwidCI6ImQyNTVhNTQxLWIzODItNDE1My1hZTAwLTczMGEwNWJmZjMzYiJ9&pageName=ReportSection
